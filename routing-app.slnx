@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="routing-app.AppHost/routing-app.AppHost.csproj" />
+  <Project Path="routing-app.ServiceDefaults/routing-app.ServiceDefaults.csproj" />
+</Solution>

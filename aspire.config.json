@@ -1,0 +1,5 @@
+{
+  "appHost": {
+    "path": "routing-app.AppHost/routing-app.AppHost.csproj"
+  }
+}
